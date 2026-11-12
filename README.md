@@ -1,1 +1,1 @@
-# Innomatics_Research_Labs_Coaching_PowerBI_Module
+# Innomatics_Research_Labs_Coaching_ML_Module
