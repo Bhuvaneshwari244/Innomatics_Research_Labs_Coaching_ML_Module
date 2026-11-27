@@ -1,4 +1,4 @@
-# Innomatics Research Labs — Machine Learning Module
+# Innomatics Research Labs — Machine Learning Module 
 
 A collection of hands-on Machine Learning assignments completed as part of the **Innomatics Research Labs ML Module**. The repository demonstrates end-to-end ML workflows—from understanding and preparing data to training, evaluating, comparing, and applying models.
 
